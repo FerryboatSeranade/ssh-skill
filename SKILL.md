@@ -97,7 +97,7 @@ Use the platform-appropriate Python executable and path syntax:
 - Use `--progress` only when progress events are useful to the user.
 - Use `--no-progress` when a clean noninteractive stderr is required.
 
-See [references/commands.md](references/commands.md) for complete syntax.
+See [references/commands.md](references/commands.md) for syntax; for Docker/NPM provisioning, use [references/npm-stack.md](references/npm-stack.md).
 
 ## Operations
 
